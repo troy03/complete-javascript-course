@@ -1,0 +1,2 @@
+- destructing array
+- destructing object
